@@ -4,6 +4,7 @@ templates:
       exclude: Children, Anime
     sort_title: +02_<<collection_name>>
     url_background: https://wallpaper.dog/large/20509069.jpg
+    url_poster_<<key>>: https://raw.githubusercontent.com/tyriekfv/kometa/main/posters/genre/<<original_key_name_encoded>>
     smart_filter:
       sort_by: release.desc
       validate: false
